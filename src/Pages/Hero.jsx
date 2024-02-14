@@ -9,7 +9,7 @@ const Hero = () => {
 <>
 
 <div className="mainhero">
-    <div className="firsthero me-4 me-lg-5">
+    <div className="firsthero  me-lg-5">
       <p className="herop" style={{fontWeight:"800",color:'white'}}>Discover a Consultant's Approach to Problem Solving</p>
       <p className="fhp" style={{lineHeight:"120%",fontWeight:"600"}}>Learn the proven approach used by top strategy consultants to tackle 
        complex business challenges effectively. Solve an MBB case study LIVE
@@ -24,7 +24,7 @@ const Hero = () => {
    <div className='heroa me-4 me-lg-6'><a href="calltoAction" style={{color:"white"}}>click here to get team discount</a></div>
     </div>
 
-    <div className="secondhero ms-4 ms-lg-5">
+    <div className="secondhero  ms-lg-5">
      <div className="imghero mb-4"> <img src={img1} alt="Image" style={{width:'100%', height:"auto"}} /> </div> 
       <div className="lb">
       <div className='linehero'></div>
