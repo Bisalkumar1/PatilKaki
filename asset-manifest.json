@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PatilKaki/static/css/main.0967fe35.css",
-    "main.js": "/PatilKaki/static/js/main.aeeea7fe.js",
+    "main.js": "/PatilKaki/static/js/main.1f5cca6e.js",
     "static/media/img1.png": "/PatilKaki/static/media/img1.6e9d9efab78357d9630c.png",
     "static/media/img2.png": "/PatilKaki/static/media/img2.9a1673e5b655b7e6e66b.png",
     "index.html": "/PatilKaki/index.html",
     "main.0967fe35.css.map": "/PatilKaki/static/css/main.0967fe35.css.map",
-    "main.aeeea7fe.js.map": "/PatilKaki/static/js/main.aeeea7fe.js.map"
+    "main.1f5cca6e.js.map": "/PatilKaki/static/js/main.1f5cca6e.js.map"
   },
   "entrypoints": [
     "static/css/main.0967fe35.css",
-    "static/js/main.aeeea7fe.js"
+    "static/js/main.1f5cca6e.js"
   ]
 }
